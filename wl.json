@@ -1,0 +1,7 @@
+{
+    "/archlinux": {"path": "/archlinux", "url": "mirror.yandex.ru"},
+    "/": {"path": "/", "url": "127.0.0.1:8089"},
+    "/debian": {"path": "/debian", "url": "mirror.yandex.ru"},
+    "/404": {"path": "/404.html", "url": "127.0.0.1:8098"},
+    "/github": {"path": "/", "url": "github.com"}
+}
